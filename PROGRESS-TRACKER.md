@@ -16,6 +16,7 @@
 | **Phase 2: Foundations** | 🟠 85% | Dec 2025 - Jan 2026 | Finishing Jan 30 |
 | **Phase 3: In Depth** | 🟠 Live | Jan 21 - Aug 31 | Week 1/32 (3%) |
 
++ completing documentation in github (notes, certificates, others)
 ---
 
 # Phase 3: In Depth (Jan-Aug 2026)
