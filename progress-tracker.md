@@ -25,10 +25,22 @@
 
 | course | status | timeline | notes |
 |--------|--------|----------|-------|
-| MIT Calculus 1B | 🟡 | Feb-May 2026 | Integration, series, differential equations |
-| Imperial Maths for ML: Linear Algebra | 🟠  | Jan-Feb 2026 | Eigenvalues, matrices, state transitions |
+| Imperial Maths for ML: Linear Algebra | 🟠 | Jan-Feb 2026 | Eigenvalues, matrices, state transitions |
 | Imperial Maths for ML: Multivariate Calculus | 🟡 | Feb-Mar 2026 | Partial derivatives, optimization, gradients |
 | Imperial Maths for ML: PCA | 🟡  | Mar 2026 | Dimensionality reduction for neural data |
+| MIT Calculus 1A | 🟠 | Feb-May 2026 | Differentiation |
+| MIT Calculus 1B | 🟡 | Feb-May 2026 | Integration |
+| MIT Calculus 1C | 🟡 | Feb-May 2026 | Infinite series and coordinate systems |
+
+**Parallel Foundation:**
+
+Rigorous textbook foundation throughout:
+- *Mathematics for Machine Learning* (Deisenroth, Faisal, Soon Ong)
+- *Calculus* & *Introduction to Linear Algebra* (Gilbert Strang, 6th ed)
+- *Calculus Volume 1* (OpenStax)
+- *Introduction to Probability* (2nd ed, Bersekas & Tsitsiklis)
+
+**Supplementary:** MIT OpenCourseWare + MITx for targeted deep dives
 
 Following also the textbook: Mathematics for Machine Learning textbook by Deisenroth, Faisal, Soon Ong 
 
@@ -36,6 +48,7 @@ Following also the textbook: Mathematics for Machine Learning textbook by Deisen
 
 | course | status | timeline | notes |
 |--------|--------|----------|-------|
+| HarvardX Neuro Part 1 | 🟢 | Jan 2026 | Electrical properties of the neuron |
 | HarvardX Neuro Part 2 | 🟡 | Feb-Apr 2026 | Systems neuroscience, circuits |
 | HarvardX Neuro Part 3 | 🟡 | Apr-Jun 2026 | Learning and memory |
 | HarvardX Neuro Part 4 | 🟡 | Jun-Aug 2026 | Decision-making, higher cognition |
@@ -55,13 +68,13 @@ Following also the textbook: Mathematics for Machine Learning textbook by Deisen
 
 | course | status | timeline | notes |
 |---------|--------|----------|-------|
-| IMG Mental Wellbeing Scoping Review | 🟠 In Progress | Jan-Aug 2026 | Data synthesis, manuscript preparation |
+| IMG Mental Wellbeing Scoping Review | 🟠 | Sept 2024 -Aug 2026 | Supervised by Prof. Mo Al-Haddad, U Glasgow. Data synthesis, manuscript preparation |
 
 ## hands-on projects stream
 
 | course | status | timeline | notes |
 |---------|--------|----------|-------|
-| EMG Bioamplifier Design & Analysis | 🟠 In Progress | Jan-Feb 2026 | Hardware circuit + DSP signal analysis |
+| EMG Bioamplifier Design & Analysis | 🟠 | Jan-Feb 2026 | Hardware circuit + DSP signal analysis |
 
 Other projects to be defined.
 
@@ -72,7 +85,7 @@ Other projects to be defined.
 
 ---
 
-# phase 2: foundational (Dec 2025-Jan 2026)
+# phase 2: foundational (May 2025-Jan 2026)
 
 ## innovation / programming / AI stream 🟢 Complete
 
@@ -82,30 +95,27 @@ Other projects to be defined.
 | Evaluations of AI Applications in Healthcare (Stanford) | 🟢  | June 2025 | Coursera |
 | Python: Introductory Course (U Michigan) | 🟢  | Dec 2025 | Foundational programming |
 
-## maths stream 🟠 In Progress
-
+## maths stream 🟠 
 | course | status | timeline | notes |
 |--------|--------|----------|-------|
 | Pre-University Calculus (DelftX) | 🟠  | Dec 2025-Jan 2026 | Exam pending Jan 22 |
-| Calculus 1A: Differentiation (MITx) | 🟠  | Dec 2025-Jan 2026 | 58%, notes transcription needed |
-| Calculus Volume 1 (OpenStax Textbook) | 🟠  | Dec 2025-Jan 2026 | Exercises ongoing |
 
-## neuroscience stream 🟠 In Progress
+## neuroscience stream 🟠 
 
 | course | status | timeline | notes |
 |--------|--------|----------|-------|
 | Philosophy of Cognitive Sciences (U Edinburgh) | 🟠 | Jan 2026 | Introduction course |
 | Essentials of Child and Adolescent Psychiatry (Paris-Saclay) | 🟢  | May 2025 | Clinical psychiatry foundation |
-| Neuropsychology of Decision-Making (Cambridge) | 🟠 s | Dec 2025-Jan 2026 | Decision circuits |
+| Neuropsychology of Decision-Making (Cambridge) | 🟠 s | Dec 2025-Jan 2026 | Introduction course |
 
-## research + QI stream 🟠 In Progress
+## research + QI stream 🟢
 
 | course | status | timeline | notes |
 |---------|--------|----------|-------|
-| IMG Mental Wellbeing Scoping Review (PI) | 🟠  | 2024-Ongoing | Supervised by Prof. Mo Al-Haddad, U Glasgow |
-| Aerogen Trial Delegation Log | 🟢  | 2025 | Shadowed patient recruitment, QEUH |
+| Scottish improvement foundation skills (sifs) | 🟢 | April-July 2025 | Improvement, measuring, reporting |
+| Aerogen Trial Delegation Log | 🟢 | 2025 | Shadowed patient recruitment, QEUH |
 
-## hands-on projects stream 🟢 complete
+## hands-on projects stream 🟢 
 
 | course | status | timeline | notes |
 |----------|--------|----------|-------|
@@ -113,14 +123,12 @@ Other projects to be defined.
 
 ---
 
-Following also the textbook: Calculus volume 1, OpenStax (Senior Contributing Authors Gilbert Strang, Massachusetts Institute of Technology, Edwin “Jed” Herman, University of Wisconsin-Stevens Point)
-
 **Phase 2 Target**: 🟢 Complete by Jan 30, 2026
-**purpose**: Establish foundational base for PhD. For example in math -precalculus, calculus: differentiation-, neuroscience -neuropsychology of decision-making, introduction to cognitive sciences, psychiatry essentials-, AI -fundamentals of ML for healthcare- and programming -intro to python-. 
+**purpose**: Establish foundational base for PhD. For example in math -precalculus, neuroscience -neuropsychology of decision-making, introduction to cognitive sciences, psychiatry essentials-, AI -fundamentals of ML for healthcare- and programming -intro to python-. 
 
 ---
 
-# Phase 1: Introductory (2023-Nov 2025) ✅ 
+# Phase 1: Introductory (-July 2025) ✅ 
 
 this phase is complete. 
 here I leave an overview. 
@@ -159,29 +167,38 @@ more details in its folder [phase 1 introductory](https://github.com/melaniagr/p
 | Project Management Foundations | Google | 2025 | Systems delivery |
 
 
+I have also added the different research/QI projects that I have completed.
+
+## In NHS Grampian: 
+
 | Category | Projects | Evidence |
 |----------|----------|----------|
 | **QI Improvements** (Neurosurgery, ARI) | 3 projects led with junior doctors: VTE prophylaxis, medicine reconciliation, anticoagulant guidance | Reports, presentations, consultant endorsements |
 | **Audit + Literature Review** (Neurosurgery, ARI) | iNPWD spinal fusions: literature review, local data analysis, intervention, re-audit | Full audit report, Scottish Spine Surgeons national presentation |
 | **QI Projects** (Plastic Surgery, ARI) | 2 projects: pathway efficiency support, CEPOD utilization analysis (led) | Presentations and consultant endorsements |
 
-**Total:** 5 QI/improvement projects in 2 clinical departments  
-**Key achievement:** One project (iNPWD) presented at national conference  
-**Evidence folder:** `research-and-qi-evidence/` (consultant letters, project documents, conference materials)
+## Published Research: Childhood Obesity & Beverage Consumption (Uruguay)**
+- Initiated research partnership with national Ceibal Programme (laptops for every child) to reach rural/under-resourced schools
+- Published in *Revista de la Sociedad Uruguaya de Pediatría* (2018)
+- Work continued by pediatrics trainees and faculty; awarded prize for independent research excellence
 
+
+## International Health Systems Research: ICRC
+
+**Independent Research: Basic Emergency Care Training Evaluation**
+
+- **Setting:** Honduras, El Salvador, Mexico (2020-2021); 75 health workers, 5 courses
+- **Your Role:** Conceived, designed evaluation framework, led data gathering and analysis
+- **Methodology:** Kirkpatrick Level 3 (mixed-methods: 19-question survey, quantitative + qualitative)
+- **Finding:** 75%+ behavioral improvement across 7 clinical domains; simulations most effective; resource constraints as barriers
+- **Evidence:** Evaluation report, methodology portfolio, thematic analysis
 
 ## hands-on projects 🟡 
 
 ---
 
 **phase 1 Target**: 🟢 
-**Timeline:** August 2023 - November 2025 (2.25 years)
-**Total Learning Investment:** ~900+ hours (calculated with Perplexity AI as I did not count the hours invested)
-**Breakdown:** 
-- 20 certifications/courses (470-610 hours)
-- 6 QI/clinical projects (380-500 hours)
-- Clinical work integration and documentation (50-100 hours)
-
+**Timeline:** up to July 2025 
 **purpose**: Establish clinical research foundation + healthcare innovation + systems thinking  
 
 ---
