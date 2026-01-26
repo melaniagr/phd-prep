@@ -59,7 +59,52 @@ phase-1-introductory/
 ```
 ---
 
-## certificate inventory
+# Research & Quality Improvement Portfolio
+
+## Overview
+
+8 projects spanning clinical QI leadership (UK acute care), systematic audit with national validation, independent international health systems research, and published epidemiological research. Demonstrates progression from clinical problem-solving → measurement and peer validation → independent research design and execution → publication and research continuation.
+
+---
+
+## Published Research: 
+
+**MD Thesis: Childhood Obesity & Beverage Consumption (Uruguay)**
+- Initiated research partnership with national Ceibal Programme (laptops for every child) to reach rural/under-resourced schools
+- Published in *Revista de la Sociedad Uruguaya de Pediatría* (2018)
+- Work continued by pediatrics trainees and faculty; awarded prize for independent research excellence
+- **Demonstrates:** Research vision, innovation in study design, ability to inspire continuation by academic teams
+
+---
+
+## UK Clinical Practice: QI & Audit
+
+**QI Leadership & Audit Cycle (5 projects)**
+
+| Category | Projects | Scale | Evidence |
+|----------|----------|-------|----------|
+| **QI Improvements** (Neurosurgery, ARI) | 3 projects led with junior doctors: VTE prophylaxis, medicine reconciliation, anticoagulant guidance | Team-led | Reports, presentations, endorsements |
+| **Audit + Literature Review** (Neurosurgery, ARI) | iNPWD spinal fusions: literature synthesis, baseline audit, intervention, re-audit | National scope | Full report, Scottish Spine Surgeons presentation |
+| **QI Projects** (Plastic Surgery, ARI) | 2 projects: pathway efficiency, CEPOD utilization analysis (led independently) | Departmental scope | Presentations, endorsements |
+
+**Demonstrates:** Problem identification, team leadership and mentorship, evidence synthesis, implementation, data analysis, stakeholder engagement, peer validation.
+
+---
+
+## International Health Systems Research: ICRC
+
+**Independent Research: Basic Emergency Care Training Evaluation**
+
+- **Setting:** Honduras, El Salvador, Mexico (2020-2021); 75 health workers, 5 courses
+- **Your Role:** Conceived, designed evaluation framework, led data gathering and analysis
+- **Methodology:** Kirkpatrick Level 3 (mixed-methods: 19-question survey, quantitative + qualitative)
+- **Finding:** 75%+ behavioral improvement across 7 clinical domains; simulations most effective; resource constraints as barriers
+- **Evidence:** Evaluation report, methodology portfolio, thematic analysis
+
+**Demonstrates:** Research conception and execution, health systems evaluation expertise, mixed-methods design, behavioral change measurement, systems-level thinking, international context navigation.
+
+
+# certificate inventory
 
 ### innovation + programming + AI stream  🟢
 | Course | Institution | Year | Focus |
