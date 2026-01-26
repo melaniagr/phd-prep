@@ -1,6 +1,9 @@
 # phase 1: introductory (2023-Nov 2025) ✅ complete
 
-**20 Certifications | 170+ Hours | clinical systems → computational bridge**
+**Purpose:** Establish clinical research foundation + healthcare innovation + systems thinking
+
+**Timeline:** August 2023 - November 2025 (2.25 years)  
+**Total Learning Investment:** ~900+ hours across courses and clinical projects 
 
 ---
 ## structure
