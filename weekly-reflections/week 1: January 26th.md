@@ -35,4 +35,4 @@ The github upload process has been more time-intensive than expected as  because
 - continue with application deadlines
 - prepare supporting documents
 
-The full checklist is on [progress tracker](phd-prep/PROGRESS-TRACKER.md)
+The full checklist is on [progress tracker]([phd-prep/PROGRESS-TRACKER.md](https://github.com/melaniagr/phd-prep/blob/main/PROGRESS-TRACKER.md))
