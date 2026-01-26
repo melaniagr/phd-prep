@@ -1,19 +1,44 @@
-# phase 1: introductory (2023-Nov 2025) ✅ complete
+# phase 1: introductory (-July 2024) ✅ complete
 
 **Purpose:** Establish clinical research foundation + healthcare innovation + systems thinking
 
-**Timeline:** August 2023 - November 2025 (2.25 years)  
+**Timeline:** up until July 2024 
 **Total Learning Investment:** ~900+ hours across courses and clinical projects 
 
 ---
 ## structure
 
-For the phase 1, I have uploaded here the certificates I got for the courses in the following structure:
+For the phase 1, I have uploaded published research, Consultant's endorsements, QI documentation and certificates. It follows the structure:
 
 ```
 phase-1-introductory/
 ├── README.md
-├── innovation-programming-ai/
+├── research-and-qi/        1 published research + 1 prize + 4 consultant's endorsements + 7 certificates + 6 documentation files
+    ├── README.md
+    ├── published research
+        ├── Soft drink consumption in 4th graders and its relationship with overweight and obesity - also available at [published research](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S1688-12492018000400026#:~:text=Los%20resultados%20mostraron%20una%20asociaci%C3%B3n,el%20ni%C3%B1o%20sea%20obeso26.)
+        ├── Prize FEMI for independent research diploma
+    ├── consultants-endorsements
+        ├── Consultant Neurosurgeon - Mr Bodkin
+        ├── Consultant Neurosurgeon - Mr Arora 
+        ├── Consultant Plastic Surgeon - Ms Greenhowe
+        └── Consultant Plastic Surgeon - Mr Hallam
+    ├── QI-projects-documentation
+        ├── Analysis of RACH CEPOD utilization
+        ├── Basic Emergency Course training evaluation - selected content
+        ├── Incisional Negative Pressure Wound Dressings for spinal fusions
+        ├── QI Neurosurgery 2024 - preliminary results
+        ├── QI Neurosurgery ppt
+        └── Scottish Spine Surgeons 14th Annual meeting - programme and abstracts
+    └── certificates
+        ├── BMJ - QI Foundations of change.pdf
+        ├── BMJ - QI Clinical leadership.pdf
+        ├── BMJ - QI Model for improvement.pdf
+        ├── Foundations of Project Management.pdf
+        ├── Good_Clinical_Practice - NIHR.pdf
+        ├── Public Involvement in Research.pdf
+        └── Research audit and QI - eIntegrity, NHS.pdf
+├── innovation-programming-ai/                                                  13 certificates
     ├── Data ethics, AI, responsible innovation - UoE.pdf
     ├── Digital health 1 - Introduction to Digital health.pdf
     ├── Digital health 2 - Implementation (...).pdf
@@ -26,16 +51,8 @@ phase-1-introductory/
     ├── Global health innovation spec.pdf
     ├── Health Technology Assessment 1.pdf
     ├── Health Technology Assessment 2.pdf
-    └── Health Technology Assessment 3.pdf
-├── research-and-qi/
-    ├── BMJ - QI Foundations of change.pdf
-    ├── BMJ - QI Clinical leadership.pdf
-    ├── BMJ - QI Model for improvement.pdf
-    ├── Foundations of Project Management.pdf
-    ├── Good_Clinical_Practice - NIHR.pdf
-    ├── Introduction to innovation healthcare - University of Bath.pdf
-    ├── Public Involvement in Research.pdf
-    ├── Research audit and QI - eIntegrity, NHS.pdf
+    ├── Health Technology Assessment 3.pdf
+    └── Introduction to innovation healthcare - University of Bath.pd
 └── neuroscience/
     └── mindfulness-fundamentals-and-applications/
 
