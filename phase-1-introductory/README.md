@@ -66,7 +66,7 @@ phase-1-introductory/
 
 | Course | Institution | Year | Focus |
 |--------|-------------|------|-------|
-| Mindfulness Fundamentals and Therapeutic Applications | Universidad Favaloro | 2026 | Neuroscience, mental health, therapeutic integration |
+| Mindfulness Fundamentals and Therapeutic Applications | Universidad Favaloro | 2024 | Neuroscience, mental health, therapeutic integration |
 
 ---
 
