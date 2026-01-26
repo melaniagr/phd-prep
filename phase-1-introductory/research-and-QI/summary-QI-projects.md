@@ -12,7 +12,7 @@ This file is divided in two parts:
 **Location:** Honduras, El Salvador, Mexico  
 **Year:** 2020-2021  
 **Your Role:** Developed project, led data gathering and analysis  
-[selected content](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Basic%20Emergency%20Course%20training%20evaluation%20report-%20selected%20content.pdf)
+**Documentation** [selected content](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Basic%20Emergency%20Course%20training%20evaluation%20report-%20selected%20content.pdf)
 
 ---
 
@@ -154,7 +154,7 @@ Completed **6 quality improvement and clinical audit projects** across Neurosurg
 ### Neurosurgery Projects (Aberdeen Royal Infirmary)
 
 Projects 1, 2 and 3 were done together. 
-Documentation can be found at [prelimiar report](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/QI%20Neurosurgery%202024%20-%20preliminar%20report.pdf), [presentation](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/QI%20Neurosurgery%20ppt.pdf) and [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Letter%20Mr%20Bodkin.pdf)
+**Documentation**  can be found at [prelimiar report](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/QI%20Neurosurgery%202024%20-%20preliminar%20report.pdf), [presentation](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/QI%20Neurosurgery%20ppt.pdf) and [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Letter%20Mr%20Bodkin.pdf)
 
 #### 1. VTE Prophylaxis Assessment & Prescribing
 **Role:** Led junior doctor team  
@@ -187,7 +187,7 @@ Documentation can be found at [prelimiar report](https://github.com/melaniagr/ph
 **Role:** Led full project independently  
 **Supervisor:** Mr. Mohit Arora, Consultant Neurosurgeon  
 **Scope:** Comprehensive literature review + local audit of iNPWD outcomes in spinal fusion procedures
-Documentation at [Scottish Spine Surgeons' 14th meeting - National Conference programme and abstracts](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Scottish%20Spine%20Surgeons%2014th%20Annual%20Meeting%20-%20programme%20and%20abstracts.pdf) , [presentation](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Incisional%20Negative%20Pressure%20Wound%20Dressings%20(iNPWD)%20for%20spinal%20fusions.pptx) and [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Letter%20Mr%20Arora.pdf)
+**Documentation** at [Scottish Spine Surgeons' 14th meeting - National Conference programme and abstracts](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Scottish%20Spine%20Surgeons%2014th%20Annual%20Meeting%20-%20programme%20and%20abstracts.pdf) , [presentation](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Incisional%20Negative%20Pressure%20Wound%20Dressings%20(iNPWD)%20for%20spinal%20fusions.pptx) and [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Letter%20Mr%20Arora.pdf)
 
 Abstract:
 
@@ -223,14 +223,14 @@ Abstract:
 **Scope:** Analysis of current pathways for patients undergoing procedures under local anaesthesia  
 **Methods:** Process mapping, workflow analysis, data collection on procedure timings and efficiency  
 **Impact:** Contributed to departmental process improvement; identified bottlenecks and optimization opportunities
-Documentation at [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Letter%20Mr%20Bodkin.pdf)
+**Documentation**  at [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Letter%20Mr%20Bodkin.pdf)
 
 ---
 
 #### 6. RACH CEPOD Utilization Analysis by Plastics Department
 **Role:** Led project independently  
 **Scope:** Comprehensive analysis of Royal Aberdeen Children's Hospital (RACH) CEPOD (Confidential Enquiry into Patient Outcome and Death) utilization by the Plastic Surgery Department
-Documentation at [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Mrs%20Greenhowe.pdf) and [presentation](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Analysis%20of%20RACH%20CEPOD%20utilization%20by%20Plastics%20Department.pptx)
+**Documentation**  at [consultant's endorsement](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/consultants-endorsements/Mrs%20Greenhowe.pdf) and [presentation](https://github.com/melaniagr/phd-prep/blob/main/phase-1-introductory/research-and-QI/QI-projects-documentation/Analysis%20of%20RACH%20CEPOD%20utilization%20by%20Plastics%20Department.pptx)
 
 **Methods:**
 - Developed detailed project protocol and data collection framework
