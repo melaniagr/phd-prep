@@ -11,29 +11,31 @@ phase-2-foundations/
     ├── Fundamentals of Machine Learning for healthcare - notes
     ├── Fundamentals of Machine Learning for healthcare - certificate
     └── Programming for everybody, getting started with python - certificate
-└── neuroscience/
+├── neuroscience/
     ├── Introduction to Cognitive Sciences - certificate
     ├── Introduction to Cognitive Sciences - notes
     ├── Neuropsychology of decision-making - certificate
     ├── Neuropsychology of decision-making - notes
     └── Essentials of child and adolescent psychiatry
-├── research-and-qi/
-    ├── SIFS PDSA on new tool proposed for new members of the QI team
-    ├── SIFS new tool proposed for new members of the QI team
-    ├── SIFS flash report
-    ├── SIFS 5-min presentation on Measures
-    ├── SIFS QI subject knowledge before and after SIFS
+└── research-and-qi/
     └── SIFS certificate
 
 
 ```
 
-### My aims were:
+### my aims were:
 
 **Innovation, programming and AI:** achieve technical literacy and ability to understand emerging technologies in healthcare context.
 
 **Neuroscience:** cognitive sciences and decision-making foundations, to understand the neurobiology underlying health behavious and decision-making. Child and adolescent psychiatry essentials was done to have evidence of my clinical knowledge - as I have shadowed in Psychiatry but not formally worked... yet.
 
-**Research and QI:** I attended the Scottish Improvement Foundation Skills (SIFS) programme, whose aim is "to support individuals to develop the skills, knowledge, and confidence to participate as members of improvement teams and contribute to testing, measuring and reporting on changes made." This seemed a step-up after the introductory courses and hands-on projects I had done in phase I. I upload part of the documentation I created for the programme, that needs to be applied to a real project. Through this programme, I gained skills in practical application of improvement science, ability to design and test interventions and communication of findings.
+**Research and QI:** I attended the Scottish Improvement Foundation Skills (SIFS) programme, which aims to develop skills in improvement science methodology. This represented a natural step-up after the introductory QI courses and projects completed in Phase 1. Through the programme, I gained practical skills in improvement science application, intervention design and testing, and communication of findings. I have uploaded the certificate here, along with [detailed documentation of the SIFS project output](https://github.com/melaniagr/research-and-qi-portfolio/tree/main/4-Scottish-improvement-foundation-skills-programme) where I applied these skills to a real departmental initiative.
 
 - **Strategically done all three together:** Developed technical ability to build, neuroscience grounding to design meaningfully, improvement science skills to test and implement
+
+### skills gained in this phase:
+
+**AI & Programming:** ML fundamentals, Python basics, healthcare AI evaluation  
+**Neuroscience:** Cognitive sciences, decision-making neurobiology, child psychiatry  
+**Research & QI:** Improvement science, intervention design, measurement, real-world application
+
