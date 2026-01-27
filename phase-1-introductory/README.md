@@ -87,4 +87,13 @@ phase-1-introductory/
 
 ---
 
-See certificates [Phase 1](https://github.com/melaniagr/phase-1-introductory)
+## skills Gained
+
+**Innovation:** Digital health design, systems thinking, HTA methodology, ethical AI  
+**Research & QI:** Research ethics, audit methodology, QI frameworks, measurement, clinical leadership  
+**Neuroscience:** Mental health neurobiology, mindfulness applications  
+**Cross-Cutting:** Systems thinking, ethical practice, patient-centered care
+
+---
+
+*Companion Portfolio:* Research & Quality Improvement Portfolio showcases applied research and clinical leadership outcomes.
