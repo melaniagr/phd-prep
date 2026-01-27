@@ -24,6 +24,8 @@ There are plenty of documents, but the overall structure can be simplified as:
 
 **phase 1:** documentation for research and QI, including published research, Consultant's endorsements, QI documentation and certificates. There are also certificates regarding the Innovation, Programming and AI stream, which were an amazing introduction to the world of Innovation for healthcare.
 
+*Companion Portfolio:* [Research & Quality Improvement Portfolio](https://github.com/melaniagr/research-and-qi-portfolio) showcases applied research and clinical leadership outcomes.
+
 **phase 2:** documentation for foundational courses in ML for healthcare, python, pre-calculus, QI-in-depth programme and introductory neuroscience courses.
 
 **phase 3:** this is the in-depth phase, in which I dive mainly in mathematical, computational, neuroscientific and hands-on-research projects in order to be at PhD level. 
@@ -32,10 +34,10 @@ There are plenty of documents, but the overall structure can be simplified as:
 
 **supplementary reading** will contain ad-hoc materials that I find useful.
 
-The **progress-tracker** is meant to give clarity on where I stand.
+**progress-tracker** this file is meant to give clarity on where I stand.
 
 Each folder has a in-depth readme file with structure.
 
-I have built this github with the help of Perplexity AI - which has helped my ADHD brain materialize the structure, uploading and everything else, in a short time. I intend to continue editing the content as time passes by so it feels more like myself. I will include reflections where I find they are needed.
+I intend to continue editing the content as time passes by and will include reflections where I find they are needed.
 
 Gracias!
