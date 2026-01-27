@@ -2,9 +2,6 @@
 
 **Purpose:** Establish clinical research foundation + healthcare innovation + systems thinking
 
-**Timeline:** up until July 2024 
-**Total Learning Investment:** ~900+ hours across courses and clinical projects 
-
 ---
 ## structure
 
@@ -96,4 +93,4 @@ phase-1-introductory/
 
 ---
 
-*Companion Portfolio:* Research & Quality Improvement Portfolio showcases applied research and clinical leadership outcomes.
+*[Companion Portfolio](https://github.com/melaniagr/research-and-QI-portfolio)* Research & Quality Improvement Portfolio showcases applied research and clinical leadership outcomes.
