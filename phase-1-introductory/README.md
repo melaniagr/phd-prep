@@ -13,32 +13,15 @@ For the phase 1, I have uploaded published research, Consultant's endorsements, 
 ```
 phase-1-introductory/
 ├── README.md
-├── research-and-qi/        1 published research + 1 prize + 4 consultant's endorsements + 7 certificates + 6 documentation files
-    ├── README.md
-    ├── published research
-        ├── Soft drink consumption in 4th graders and its relationship with overweight and obesity - also available at [published research](http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S1688-12492018000400026#:~:text=Los%20resultados%20mostraron%20una%20asociaci%C3%B3n,el%20ni%C3%B1o%20sea%20obeso26.)
-        ├── Prize FEMI for independent research diploma
-    ├── consultants-endorsements
-        ├── Consultant Neurosurgeon - Mr Bodkin
-        ├── Consultant Neurosurgeon - Mr Arora 
-        ├── Consultant Plastic Surgeon - Ms Greenhowe
-        └── Consultant Plastic Surgeon - Mr Hallam
-    ├── QI-projects-documentation
-        ├── Analysis of RACH CEPOD utilization
-        ├── Basic Emergency Course training evaluation - selected content
-        ├── Incisional Negative Pressure Wound Dressings for spinal fusions
-        ├── QI Neurosurgery 2024 - preliminary results
-        ├── QI Neurosurgery ppt
-        └── Scottish Spine Surgeons 14th Annual meeting - programme and abstracts
-    └── certificates
-        ├── BMJ - QI Foundations of change.pdf
-        ├── BMJ - QI Clinical leadership.pdf
-        ├── BMJ - QI Model for improvement.pdf
-        ├── Foundations of Project Management.pdf
-        ├── Good_Clinical_Practice - NIHR.pdf
-        ├── Public Involvement in Research.pdf
-        └── Research audit and QI - eIntegrity, NHS.pdf
-├── innovation-programming-ai/                                                  13 certificates
+├── research-and-qi-certificates/        
+    ├── BMJ - QI Foundations of change.pdf
+    ├── BMJ - QI Clinical leadership.pdf
+    ├── BMJ - QI Model for improvement.pdf
+    ├── Foundations of Project Management.pdf
+    ├── Good_Clinical_Practice - NIHR.pdf
+    ├── Public Involvement in Research.pdf
+    └── Research audit and QI - eIntegrity, NHS.pdf
+├── innovation-programming-ai-certificates/                                                  
     ├── Data ethics, AI, responsible innovation - UoE.pdf
     ├── Digital health 1 - Introduction to Digital health.pdf
     ├── Digital health 2 - Implementation (...).pdf
@@ -53,56 +36,11 @@ phase-1-introductory/
     ├── Health Technology Assessment 2.pdf
     ├── Health Technology Assessment 3.pdf
     └── Introduction to innovation healthcare - University of Bath.pd
-└── neuroscience/
+└── neuroscience-certificate/
     └── mindfulness-fundamentals-and-applications/
 
 ```
 ---
-
-# Research & Quality Improvement Portfolio
-
-## Overview
-
-8 projects spanning clinical QI leadership (UK acute care), systematic audit with national validation, independent international health systems research, and published epidemiological research. Demonstrates progression from clinical problem-solving → measurement and peer validation → independent research design and execution → publication and research continuation.
-
----
-
-## Published Research: 
-
-**MD Thesis: Childhood Obesity & Beverage Consumption (Uruguay)**
-- Initiated research partnership with national Ceibal Programme (laptops for every child) to reach rural/under-resourced schools
-- Published in *Revista de la Sociedad Uruguaya de Pediatría* (2018)
-- Work continued by pediatrics trainees and faculty; awarded prize for independent research excellence
-- **Demonstrates:** Research vision, innovation in study design, ability to inspire continuation by academic teams
-
----
-
-## UK Clinical Practice: QI & Audit
-
-**QI Leadership & Audit Cycle (5 projects)**
-
-| Category | Projects | Scale | Evidence |
-|----------|----------|-------|----------|
-| **QI Improvements** (Neurosurgery, ARI) | 3 projects led with junior doctors: VTE prophylaxis, medicine reconciliation, anticoagulant guidance | Team-led | Reports, presentations, endorsements |
-| **Audit + Literature Review** (Neurosurgery, ARI) | iNPWD spinal fusions: literature synthesis, baseline audit, intervention, re-audit | National scope | Full report, Scottish Spine Surgeons presentation |
-| **QI Projects** (Plastic Surgery, ARI) | 2 projects: pathway efficiency, CEPOD utilization analysis (led independently) | Departmental scope | Presentations, endorsements |
-
-**Demonstrates:** Problem identification, team leadership and mentorship, evidence synthesis, implementation, data analysis, stakeholder engagement, peer validation.
-
----
-
-## International Health Systems Research: ICRC
-
-**Independent Research: Basic Emergency Care Training Evaluation**
-
-- **Setting:** Honduras, El Salvador, Mexico (2020-2021); 75 health workers, 5 courses
-- **Your Role:** Conceived, designed evaluation framework, led data gathering and analysis
-- **Methodology:** Kirkpatrick Level 3 (mixed-methods: 19-question survey, quantitative + qualitative)
-- **Finding:** 75%+ behavioral improvement across 7 clinical domains; simulations most effective; resource constraints as barriers
-- **Evidence:** Evaluation report, methodology portfolio, thematic analysis
-
-**Demonstrates:** Research conception and execution, health systems evaluation expertise, mixed-methods design, behavioral change measurement, systems-level thinking, international context navigation.
-
 
 # certificate inventory
 
@@ -131,7 +69,7 @@ phase-1-introductory/
 
 | Course | Institution | Year | Focus |
 |--------|-------------|------|-------|
-| Mindfulness Fundamentals and Therapeutic Applications | Universidad Favaloro | 2024 | Neuroscience, mental health, therapeutic integration |
+| Mindfulness Fundamentals and Therapeutic Applications | Universidad Favaloro | 2024 | Neuroscience, mental health, therapeutic integration 
 
 ---
 
