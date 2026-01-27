@@ -1,5 +1,7 @@
 # Computational Cognitive Science PhD Preparation: Weekly Progress Tracker
-**phase 2-3 Progress** | **Jan 22 - Aug 31, 2026**
+last updated | **Fri 23rd Jan**
+
+for reflections on progress [weekly reflections](https://github.com/melaniagr/phd-prep/tree/main/weekly-reflections)
 
 ---
 
