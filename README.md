@@ -22,6 +22,8 @@ PhD-Ready: Computational Cognitive Science Researcher
 
 There are plenty of documents, but the overall structure can be simplified as:
 
+[Why computational cognitive science?](https://github.com/melaniagr/phd-prep/blob/main/research-statement-why-computational-cognitive-science.md) is a research statement explaining the journey that has taken me here.
+
 **[phase 1](https://github.com/melaniagr/phd-prep/tree/main/phase-1-introductory):** documentation for research and QI, including published research, Consultant's endorsements, QI documentation and certificates. There are also certificates regarding the Innovation, Programming and AI stream, which were an amazing introduction to the world of Innovation for healthcare.
 
 *Companion Portfolio:* [Research & Quality Improvement Portfolio](https://github.com/melaniagr/research-and-qi-portfolio) showcases applied research and clinical leadership outcomes.
