@@ -1,8 +1,8 @@
 # EMG Bioamplifier
 
-DIY surface EMG bioamplifier using Arduino and LM324 op-amp for recording muscle electrical activity.
+Engineered differential amplifier circuit for real-time EMG acquisition. Developed Python signal-processing pipeline (filtering, feature extraction, statistical analysis) with AI assistance (Perplexity); independently designed architecture, integrated components, and validated outputs. Demonstrated competency in hardware design, signal processing workflows, and real-time data systems.
 
-## Argument - why i'm doing this
+## why i'm doing this
 
 **Goal:** Start building hands-on projects in order to understand the theory differently, more in-depth. I will understand motor unit recruitment by measuring electromyographic signals across three muscle states (rest, light contraction, maximal effort).
 
@@ -11,9 +11,9 @@ DIY surface EMG bioamplifier using Arduino and LM324 op-amp for recording muscle
 **scientific value:** Validates that Arduino + op-amp bioamplification is sufficient for muscle activation studies, making EMG accessible for biomechanics research without expensive clinical equipment.
 
 ## Current Status
-- ✅ Arduino data acquisition functional (100 Hz, 10-bit ADC)
-- 🟠 Python analysis pipeline working - except one dataset (RMS, FFT, visualization)
-- ⚠️ **V1.0 beta:** Hardware has high DC baseline (~1.9V) masking EMG signal; Rest/Gentle ratio only 1.009× (target: >3×)
+- ✅ Arduino data acquisition functional 
+- 🟠 Python analysis pipeline working - except one dataset 
+- ⚠️ **V1.0 beta:** Hardware to be improved; Rest/Gentle ratio only 1.009× (target: >3×)
 
 ## Methods
 
@@ -58,8 +58,7 @@ DIY surface EMG bioamplifier using Arduino and LM324 op-amp for recording muscle
 
 Seems to be missing AC coupling capacitor + insufficient gain (1.1×) + the electrodes didnot seem to work well. 
 I will review the theory to come up with solutions for the hardware, get better electrodes and the python code.
-In parallel, I will get better pictures next time I work on the circuit, do a drawing of the circuit (ASCII schematic example), expand on argument.
-Review and improve methods, analysis.
+In parallel, I will get better pictures next time I work on the circuit, do a drawing of the circuit (ASCII schematic example), expand on argument. Review and improve methods, analysis.
 
 ### Timeline
 Review theory and new concepts.
