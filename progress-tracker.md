@@ -1,5 +1,5 @@
 # Computational Cognitive Science PhD Preparation: Weekly Progress Tracker
-last updated | **Fri 23rd Jan**
+last updated | **Mon 2nd Feb**
 
 for reflections on progress [weekly reflections](https://github.com/melaniagr/phd-prep/tree/main/weekly-reflections)   
 for comprehensive evidence of completed projects, certificates, endorsements, research outputs (including my ongoing IMG Mental Wellbeing Scoping Review (U Glasgow), Scottish Improvement Foundation Skills applied work, case study and training evaluation) please go to [research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio/)
@@ -16,7 +16,7 @@ for comprehensive evidence of completed projects, certificates, endorsements, re
 | Phase | Status | Timeline | Completion |
 |-------|--------|----------|------------|
 | **1: introductory** | 🟢 | - July 2024 | 
-| **2: foundations** | 🟠  | Oct 2025 - Jan 2026 | finishing Jan 30 |
+| **2: foundations** | 🟠  | Oct 2025 - Jan 2026 | finishing Jan 30 - *missing DelftX exam* |
 | **3: in depth** | 🟠 | Jan 21 - Aug 31 | Week 1/32 (3%) |
 
 ---
@@ -113,9 +113,9 @@ Rigorous textbook foundation throughout:
 
 | course | status | timeline | notes |
 |--------|--------|----------|-------|
-| Philosophy of Cognitive Sciences (U Edinburgh) | 🟠 | Jan 2026 | Introduction course |
+| Philosophy of Cognitive Sciences (U Edinburgh) | 🟢 | Jan 2026 | Introduction course |
 | Essentials of Child and Adolescent Psychiatry (Paris-Saclay) | 🟢  | May 2025 | Clinical psychiatry foundation |
-| Neuropsychology of Decision-Making (Cambridge) | 🟠 | Dec 2025-Jan 2026 | Introduction course |
+| Neuropsychology of Decision-Making (Cambridge) | 🟢 | Dec 2025-Jan 2026 | Introduction course |
 
 ## research + QI stream 🟢
 
