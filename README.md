@@ -1,24 +1,6 @@
 In this repo I have uploaded so far all the relevant documents for Computational Cognitive Science PhD Preparation. 
 
-After dozens of iterations, I settled on a study plan: 5 workstreams (Innovation/AI, Math, Neuroscience, Research+QI, Hands-on Projects) organized into 3 phases by depth: Introductory → Foundational → In Depth.
-
-This design has the following logic: 
-
-```
-Phase 1: Introductory Evidence
-↓
-Research initiation + Clinical credibility + QI mindset
-↓
-Phase 2: Foundations
-↓
-Technical literacy (AI/ML) + Neuroscience foundations + Improvement methodology
-↓
-Phase 3: In-Depth Learning
-↓
-Mathematical rigor + Systems neuroscience + Computational skills + Real research
-↓
-PhD-Ready: Computational Cognitive Science Researcher
-```
+After dozens of iterations, I settled on a study plan: 5 workstreams (Innovation/AI, Math, Neuroscience, Research+QI, Hands-on Projects) organized into 3 phases by depth: Introductory → Foundational → In Depth. My background and rationale for my learning journey sits at ([learning journey](https://github.com/melaniagr/phd-prep/blob/main/learning_journey.md)).
 
 There are plenty of documents, a quick way to navigate them:
 
