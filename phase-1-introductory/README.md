@@ -1,45 +1,8 @@
-# phase 1: introductory (-July 2024) ✅ complete
+# phase 1: introductory (-July 2025) ✅ complete
 
 **Purpose:** Establish clinical research foundation + healthcare innovation + systems thinking
 
----
-## structure
-
-For the phase 1, I have uploaded published research, Consultant's endorsements, QI documentation and certificates. It follows the structure:
-
-```
-phase-1-introductory/
-├── README.md
-├── research-and-qi-certificates/        
-    ├── BMJ - QI Foundations of change.pdf
-    ├── BMJ - QI Clinical leadership.pdf
-    ├── BMJ - QI Model for improvement.pdf
-    ├── Foundations of Project Management.pdf
-    ├── Good_Clinical_Practice - NIHR.pdf
-    ├── Public Involvement in Research.pdf
-    └── Research audit and QI - eIntegrity, NHS.pdf
-├── innovation-programming-ai-certificates/                                                  
-    ├── Data ethics, AI, responsible innovation - UoE.pdf
-    ├── Digital health 1 - Introduction to Digital health.pdf
-    ├── Digital health 2 - Implementation (...).pdf
-    ├── Digital health 3 - Evaluation of Digital Health Interventions.pdf
-    ├── Frugal innovation 1.pdf
-    ├── Frugal innovation 2.pdf
-    ├── Global health innovation 1.pdf
-    ├── Global health innovation 2.pdf
-    ├── Global health innovation 3.pdf
-    ├── Global health innovation spec.pdf
-    ├── Health Technology Assessment 1.pdf
-    ├── Health Technology Assessment 2.pdf
-    ├── Health Technology Assessment 3.pdf
-    └── Introduction to innovation healthcare - University of Bath.pd
-└── neuroscience-certificate/
-    └── mindfulness-fundamentals-and-applications/
-
-```
----
-
-# certificate inventory
+certificate inventory in [certificates repo](https://github.com/melaniagr/certificates)
 
 ### innovation + programming + AI stream  🟢
 | Course | Institution | Year | Focus |
