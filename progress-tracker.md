@@ -1,5 +1,5 @@
 # Computational Cognitive Science PhD Preparation: Weekly Progress Tracker
-last updated | **Mon 2nd Feb**
+last updated | **Tues 10th Feb**
 
 for reflections on progress [weekly reflections](https://github.com/melaniagr/phd-prep/tree/main/weekly-reflections)   
 for comprehensive evidence of completed projects, certificates, endorsements, research outputs (including my ongoing IMG Mental Wellbeing Scoping Review (U Glasgow), Scottish Improvement Foundation Skills applied work, case study and training evaluation) please go to [research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio/)
@@ -16,7 +16,7 @@ for comprehensive evidence of completed projects, certificates, endorsements, re
 | Phase | Status | Timeline | Completion |
 |-------|--------|----------|------------|
 | **1: introductory** | 🟢 | - July 2024 | 
-| **2: foundations** | 🟠  | Oct 2025 - Jan 2026 | finishing Jan 30 - *missing DelftX exam* |
+| **2: foundations** | 🟠  | Oct 2025 - Feb 2026 | finishing Feb 2026 / early March - *missing DelftX exam and processing materials from this and previous phases* |
 | **3: in depth** | 🟠 | Jan 21 - Aug 31 | Week 1/32 (3%) |
 
 ---
@@ -65,6 +65,9 @@ Rigorous textbook foundation throughout:
 | David Silver's Reinforcement Learning Course | 🟠  | Jan-Aug 2026 | Reinforcement learning lectures |
 
 *Other resources mapped - consider doing according to need:*
+
+Dive into Datacamp after Computational Thinking with Python and continue with relevant courses there 
+ or
  
 | Digital Signal Processing (EPFL) | 🟡  | May-Aug 2026 | Fourier analysis, filtering, time-frequency (for fMRI) |
 | Statistics with Python (U Michigan) | 🟡  | May-Aug 2026 | Hypothesis testing, time-series analysis |
@@ -94,7 +97,7 @@ Rigorous textbook foundation throughout:
 
 ---
 
-# phase 2: foundational (May 2025-Jan 2026)
+# phase 2: foundational (May 2025-Feb/ early March 2026)
 
 ## innovation / programming / AI stream 🟢 Complete
 
@@ -116,6 +119,8 @@ Rigorous textbook foundation throughout:
 | Philosophy of Cognitive Sciences (U Edinburgh) | 🟢 | Jan 2026 | Introduction course |
 | Essentials of Child and Adolescent Psychiatry (Paris-Saclay) | 🟢  | May 2025 | Clinical psychiatry foundation |
 | Neuropsychology of Decision-Making (Cambridge) | 🟢 | Dec 2025-Jan 2026 | Introduction course |
+
+🟠 as finetuning notes for uploading
 
 ## research + QI stream 🟢
 
@@ -139,6 +144,8 @@ Rigorous textbook foundation throughout:
 ---
 
 # Phase 1: Introductory (-July 2025) ✅ 
+
+🟠 finetuning notes for uploading
 
 this phase is complete, the date when it ended is estimated. here I leave an overview. 
 
