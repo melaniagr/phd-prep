@@ -34,6 +34,7 @@ Handwritten notes + key takeaways. Focus: Healthcare ML pitfalls (bias, eval, et
 - OAP framework, teams, ethics (bias, FDA).
 
 **Full handwritten notes in folder** 
-**Cert:** [cert repo](https://github.com/melaniagr/certificates)
+
+**Certificate:** [cert repo](https://github.com/melaniagr/certificates)
 
 **PhD Bridge:** first approximation to machine learning and machine learning applied to healthcare.
