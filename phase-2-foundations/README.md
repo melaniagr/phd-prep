@@ -1,28 +1,6 @@
 # phase-2-foundations
 I will share here the documentation regarding the phase 2 of my study plan (certifications, some notes). This phase disciplinary knowledge and practical skills across three core areas: artificial intelligence and healthcare innovation, neuroscience, and quality improvement methodology.
 
-## structure
-
-```
-phase-2-foundations/
-├── README.md
-├── innovation-programming-ai/
-    ├── Evaluations of AI Applications in Healthcare - certificate
-    ├── Fundamentals of Machine Learning for healthcare - notes
-    ├── Fundamentals of Machine Learning for healthcare - certificate
-    └── Programming for everybody, getting started with python - certificate
-├── neuroscience/
-    ├── Introduction to Cognitive Sciences - certificate
-    ├── Introduction to Cognitive Sciences - notes
-    ├── Neuropsychology of decision-making - certificate
-    ├── Neuropsychology of decision-making - notes
-    └── Essentials of child and adolescent psychiatry
-└── research-and-qi/
-    └──                                                    [documentation on Research & QI porfolio]
-
-
-```
-
 ### my aims were:
 
 **Innovation, programming and AI:** achieve technical literacy and ability to understand emerging technologies in healthcare context.
@@ -39,3 +17,18 @@ phase-2-foundations/
 **Neuroscience:** Cognitive sciences, decision-making neurobiology, child psychiatry  
 **Research & QI:** Improvement science, intervention design, measurement, real-world application
 
+### certificates for the following courses are on the [certificates repo](https://github.com/melaniagr/certificates):
+- Neuropsychology of decision-making 
+- Evaluations of AI Applications in Healthcare
+- Fundamentals of Machine Learning for healthcare
+- Programming for everybody, getting started with python
+- Introduction to Cognitive Sciences
+- Essentials of child and adolescent psychiatry
+- SIFS
+
+### in this folder:
+- notes and relevant materials for:
+    - Neuropsychology of decision-making 
+    - Fundamentals of Machine Learning for healthcare
+    - Introduction to Cognitive Sciences
+    - Essentials of child and adolescent psychiatry
