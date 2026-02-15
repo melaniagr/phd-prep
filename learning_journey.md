@@ -54,6 +54,8 @@ Mathematical rigor + Systems neuroscience + Computational skills + Real research
 PhD-Ready: Computational Cognitive Science Researcher
 ```
 
+
+
 ## Why This Order Matters
 
 The order has been deliberate — e.g. Reinforcement Learning might seem interesting and appealing, but without proper math foundations will be harder to grasp.
@@ -62,33 +64,7 @@ The order has been deliberate — e.g. Reinforcement Learning might seem interes
 
 Currently, I am about to dedicate myself plainly to phase 3. I still need to work on my math refreshers in depth, as well as understanding python language and machine learning, but I can also, spontaneously, read papers or watch lectures, and build with my own hands devices or codes that feel naturally embedded  in a path that slowly starts to converge.
 
-# Learning Journey: Clinical Neuroscience → Computational Cognitive Science
-
-## Background
-
-- MD, Universidad de la República (Uruguay), with biostatistics in the curriculum.
-- Year 1 of Engineering (~690 hours / 165 UK credits in maths, programming, physics) before medicine, which still shapes how I think about problems.
-- Humanitarian work (ICRC): implementation science in hospital operations, behavioural training evaluation, and digital health change management (e.g. DCMS) in low‑resource settings.
-- NHS clinical work (>2 years in neurosurgery, plastics, critical care) plus UK licensing process (PLAB), deepening my understanding of real clinical decision‑making under uncertainty.
-- Ongoing social‑justice projects (e.g. SOFAI, documentary work) grounding my interest in impact and equity.
-
-**Overall goal:** transition from clinical neuroscience to computational cognitive science—building mechanistic models that are grounded in real healthcare systems and patient outcomes.
-
----
-
-## Five interconnected workstreams
-
-1. **Innovation & Programming** – digital health, innovation theory, AI/ML for healthcare, Python, RL.
-2. **Mathematics** – calculus, linear algebra, optimisation and probability for ML and modelling.
-3. **Neuroscience** – from cellular mechanisms to systems, cognition and decision-making.
-4. **Research & QI** – study design, implementation science, QI, NHS innovation pathways.
-5. **Hands-on Projects** – EMG bioamplifier, signal processing, simple RL models and analyses.
-
-All courses and notes in the repo are tagged into one or more of these streams.
-
----
-
-## Three progressive phases
+certificate inventory in [certificates repo](https://github.com/melaniagr/certificates)
 
 ### Phase 1 – Introductory evidence (✅ complete, to July 2025)
 
