@@ -1,0 +1,27 @@
+# Synthesis notes week 2
+
+## Week 2 – Crime and justice
+
+- Predictive tools (e.g. PredPol, risk scores) raise deep questions about **fairness** and discrimination.
+- Formal fairness notions can be defined over:
+  - Predicted labels alone.
+  - Predicted vs actual outcomes.
+  - Risk scores vs actual outcomes.
+- Different fairness definitions can conflict, so “fair by the numbers” is not straightforward.
+
+**Data justice (Linnet Taylor):**
+
+To rebalance power in datafied societies, systems should ensure:
+
+- **Visibility** – ability to be represented when needed and to opt out of data collection.
+- **Autonomy** – control over how one engages with public and private data markets.
+- **Non‑discrimination** – ability to challenge biased data/decisions and avoid unfair profiling.
+
+Implied rights:
+
+- Access to data collected about oneself.
+- Ability to query and contest data and outputs.
+- Mechanisms to hold governments and companies to account.
+
+Some groups (e.g. Liberty in the UK) argue that certain systems, such as predictive policing, are structurally harmful and should be banned rather than “repaired”.
+
