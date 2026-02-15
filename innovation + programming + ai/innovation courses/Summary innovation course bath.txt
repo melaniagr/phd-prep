@@ -1,0 +1,39 @@
+# Innovation in Healthcare (University of Bath) – Summary
+
+## What innovation is
+- Innovation = applying an idea to improve an existing product, process, service or business model (invention + **use**).
+- Healthcare innovation includes hard tech (drugs, devices) and soft tech (pathways, protocols, models of care).
+
+## Types and scope
+- Radical: major breakthroughs (e.g. new mechanisms, entirely new treatments).
+- Incremental: many small improvements to existing technologies (e.g. pacemaker generations).
+- Disruptive: simpler, cheaper solutions that open up new markets or replace established ones (e.g. angioplasty vs bypass).
+- Position innovation: same service in a new context (e.g. remote monitoring instead of inpatient care).
+
+## Why healthcare innovation is hard
+- Complex systems with many stakeholders (patients, clinicians, managers, payers, regulators, industry).
+- Risk‑averse, heavily regulated, evidence-based culture; long trials and approval pathways.
+- Fragmented economics (separation of payers/providers; primary, secondary, social care).
+- Constant trade‑off between better performance, affordability, and value to the whole system.
+
+## Drivers and processes
+- Drivers: unmet needs, dissatisfaction with current solutions, technology push, market pull, and serendipity.
+- Design thinking / Double Diamond: Discover → Define → Develop → Deliver.
+- Tools: 5 Whys, user journeys, personas, spider diagrams, MVP and lean start‑up ideas (used carefully in healthcare).
+
+## Evidence, value and business
+- Logic models: map inputs → activities → outputs → outcomes → impacts to plan and evaluate innovations.
+- Value proposition: clear statement of who the innovation is for, which problem it solves, and how it is better (for clinicians, patients, and payers).
+- Market sizing: TAM / SAM / SOM; business model canvas to map value, customers, channels, revenues, costs, partners.
+
+## Adoption, spread and culture
+- Adoption influenced by: relative advantage, compatibility, complexity, trialability, observability.
+- Adopters: innovators, early adopters, early majority, late majority, laggards.
+- Organisational factors: leadership, receptive culture, absorptive capacity, internal QI capability, and external networks (e.g. AHSNs).
+- Quality improvement (PDSA, process mapping, run charts) helps adapt and embed innovations into real pathways.
+
+## Failure, funding and ecosystems
+- Many innovations and start‑ups fail; most common reason: “no market need”, even when tech is interesting.
+- Other reasons: wrong team, poor UX, no viable business model, running out of cash.
+- Funding and support: internal grants, charities, hackathons, crowdfunding, angels, VC, corporate accelerators, open‑innovation portals.
+- Innovation ecosystems (universities, health systems, industry, patients) and cross‑sector collaborations are key to development and spread.

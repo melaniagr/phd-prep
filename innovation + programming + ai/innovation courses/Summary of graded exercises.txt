@@ -1,0 +1,25 @@
+# Innovation Courses – Graded Exercises (Imperial)
+
+## 1. Product design critique (Dyson / iPhone)
+
+- **Dyson vacuum**: Designed to fix poor suction and clogging of traditional vacuums by separating dirt from air and increasing power. Later designs added cordless, lightweight, handheld, and bagless features, improving flexibility and ease of use. These features likely explain its design awards: strong performance plus user‑friendly, clean interaction.
+- **iPhone**: Aimed to make calling easier and fit comfortably in one hand, then evolved into a device that merges phone, camera, and music player. Design choices (touchscreen, compact form factor, status appeal) turned it into an iconic, award‑winning “all‑in‑one” product.
+
+## 2. R&D landscape – Uruguay vs UK
+
+- **Uruguay**: Small upper‑middle‑income Latin‑American country with far less investment in health R&D and fewer funding agencies. National innovation agency (ANII) often funds scholarships abroad so professionals can bring back knowledge. Political/economic stability and a growing tech/software sector, but health remains conservative and under‑regulated; public system could innovate more if prioritised.
+- **UK**: Large, high‑income country with many innovation actors (government, NHS, academia, charities, universities). Strong evidence‑generation culture and programmes like the “clinical entrepreneur” scheme that support clinicians with funding, mentorship and time. However, regulation and a fragmented investment landscape make navigation complex for innovators.
+
+## 3. Digital tool pitch (Physical Rehabilitation Programme)
+
+- **Audience**: Organisational stakeholders in an international organisation.
+- **Innovation**: Replace an obsolete reporting tool with an integrated digital system combining an electronic medical record and enterprise resource planning, eliminating paper processes.
+- **Rationale**: Enables clinicians to use live data, strengthens monitoring and evaluation, and better captures programme impact and quality of care. Requires technical infrastructure and training but is expected to transform workflows across rehabilitation centres and benefit patients through more efficient, data‑driven services.
+
+## 4. Success of innovations – Surgical robots vs Brazilian CHWs
+
+Using relative advantage, compatibility, complexity, cost, and “fuzzy boundaries”:
+
+- **Surgical robots**: Offer precise, minimally invasive surgery and a high‑tech image. Compatible with some hospital contexts but require space, capital, specialist training, and long learning curves. Outcomes are clearly better than open surgery, but only marginally better than standard laparoscopy; complex and expensive to scale.
+- **Brazilian Community Health Workers (FHS)**: Simple, team‑based model with CHWs drawn from the communities they serve, giving longitudinal, household‑level care. Highly compatible with diverse Brazilian settings, relatively low complexity, and built on a cost‑effective financing model that now covers ~62% of the population. The model’s “soft periphery” allows local adaptation, facilitating ongoing scale‑up where outcomes are good.
+
