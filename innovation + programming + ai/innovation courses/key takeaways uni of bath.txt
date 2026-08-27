@@ -1,7 +1,0 @@
-## My key takeaways
-
-- Innovation is not just ideas; it is the combination of evidence, design work, and real‑world **use** in complex systems.
-- In healthcare, the hard tech is only half the story – soft elements (pathways, behaviours, culture, economics) decide whether anything actually lands.
-- Most failures come from solving the wrong problem (“no market need”), so starting from unmet needs and user‑centred design is essential.
-- Adoption and spread depend as much on people and organisations (culture, champions, QI, power dynamics) as on the technical quality of the innovation.
-- For my PhD path, I need to think in parallel about: value propositions, stakeholders, and business/implementation models – not just clinical or technical novelty.
