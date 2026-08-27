@@ -1,188 +1,96 @@
-# Computational Cognitive Science PhD Preparation: Weekly Progress Tracker
-last updated | **Tues 10th Feb**
+# PhD Preparation Progress Tracker
+**Target:** MIT MicroMasters (May 2027) → PhD Application (Aug 2030)  
+**Last Updated:** August 2026
 
-for reflections on progress [weekly reflections](https://github.com/melaniagr/phd-prep/tree/main/weekly-reflections)   
-for comprehensive evidence of completed projects, certificates, endorsements, research outputs (including my ongoing IMG Mental Wellbeing Scoping Review (U Glasgow), Scottish Improvement Foundation Skills applied work, case study and training evaluation) please go to [research and QI portfolio](https://github.com/melaniagr/research-and-QI-portfolio/)
-
----
-
-## status legend
-🟢 Complete | 🟠 In Progress | 🟡 Planned | 🔴 Blocked
+> **Note:** This tracker reflects the **revised strategic roadmap** (Linear Algebra → Calculus → MicroMasters). Previous "Phase 1-3" structures have been consolidated into a single, linear progression to ensure depth over breadth.
 
 ---
 
-## current phase status
+## 🗺️ High-Level Roadmap
 
-| Phase | Status | Timeline | Completion |
-|-------|--------|----------|------------|
-| **1: introductory** | 🟢 | - July 2024 | 
-| **2: foundations** | 🟠  | Oct 2025 - Feb 2026 | finishing Feb 2026 / early March - *missing DelftX exam and processing materials from this and previous phases* |
-| **3: in depth** | 🟠 | Jan 21 - Aug 31 | Week 1/32 (3%) |
-
----
-
-# phase 3: in depth (Jan-Aug 2026)
-
-## maths stream
-
-| course | status | timeline | notes |
-|--------|--------|----------|-------|
-| Imperial Maths for ML: Linear Algebra | 🟠 | Jan-Feb 2026 | Eigenvalues, matrices, state transitions |
-| Imperial Maths for ML: Multivariate Calculus | 🟡 | Feb-Mar 2026 | Partial derivatives, optimization, gradients |
-| Imperial Maths for ML: PCA | 🟡  | Mar 2026 | Dimensionality reduction for neural data |
-| MIT Calculus 1A | 🟠 | -Jan 2026 | Differentiation |
-| MIT Calculus 1B | 🟡 | Feb-May 2026 | Integration |
-| MIT Calculus 1C | 🟡 | Feb-May 2026 | Infinite series and coordinate systems |
-
-**Parallel Foundation:**
-
-Rigorous textbook foundation throughout:
-- *Mathematics for Machine Learning* (Deisenroth, Faisal, Soon Ong)
-- *Calculus* & *Introduction to Linear Algebra* (Gilbert Strang, 6th ed)
-- *Calculus Volume 1* (OpenStax)
-- *Introduction to Probability* (2nd ed, Bersekas & Tsitsiklis)
-
-**Supplementary:** MIT OpenCourseWare + MITx for targeted deep dives
-
-## neuroscience stream
-
-| course | status | timeline | notes |
-|--------|--------|----------|-------|
-| HarvardX Neuro Part 1 | 🟢 | Jan 2026 | Electrical properties of the neuron |
-| HarvardX Neuro Part 2 | 🟡 | Feb-Apr 2026 | Neurons and networks |
-| HarvardX Neuro Part 3 | 🟡 | Apr-Jun 2026 | The brain |
-| HarvardX Neuro Part 4 | 🟡 | Jun-Aug 2026 | Final exam |
-| Johns Hopkins fMRI Fundamentals + MIT fMRI lectures | 🟠 | Mar-Aug 2026 | Neuroimaging |
-| Computational Neuroscience: Synapses, Neurons, Brains | 🟠 | Jan-Mar 2026 | Computational neuroscience |
-
-
-## innovation / programming / AI stream
-
-| course | status | timeline | notes |
-|--------|--------|----------|-------|
-| MIT Computational Thinking: Python 6.00.1x | 🟠  | Jan-Mar 2026 | Functions, data structures, algorithms |
-| MIT Computational Thinking: Data Science 6.00.2x | 🟡  | Mar-May 2026 | Algorithms, optimization, visualization |
-| David Silver's Reinforcement Learning Course | 🟠  | Jan-Aug 2026 | Reinforcement learning lectures |
-
-*Other resources mapped - consider doing according to need:*
-
-Dive into Datacamp after Computational Thinking with Python and continue with relevant courses there 
- or
- 
-| Digital Signal Processing (EPFL) | 🟡  | May-Aug 2026 | Fourier analysis, filtering, time-frequency (for fMRI) |
-| Statistics with Python (U Michigan) | 🟡  | May-Aug 2026 | Hypothesis testing, time-series analysis |
-| Machine Learning Specialization (DeepLearning.AI, Stanford)| 🟡  | May-Aug 2026 | fundamental AI concepts, practical machine learning skills |
-| Practical RL (Hugging Face) | 🟡 | May-Aug 2026 | Implementation-focused |
-| Reinforcement Learning Specialization (UoAlberta) | 🟡  | May-Aug 2026 | Markov decision processes, temporal difference learning |
-
-## research + QI Stream
-
-| course | status | timeline | notes |
-|---------|--------|----------|-------|
-| [IMG Mental Wellbeing Scoping Review]((https://github.com/melaniagr/research-and-QI-portfolio/blob/main/5.-IMGs-Mental-wellbeing-systematic-scoping-review/README.md)) | 🟠 | Sept 2024 -Aug 2026 | Supervised by Prof. Mo Al-Haddad, U Glasgow. Data synthesis, manuscript preparation |
-
-
-## hands-on projects stream
-
-| course | status | timeline | notes |
-|---------|--------|----------|-------|
-| EMG Bioamplifier Design & Analysis | 🟠 | Jan-Feb 2026 | Hardware circuit + DSP signal analysis |
-
-*Other projects to be defined.*
+| Phase | Timeline | Clinical Focus | Quantitative Focus | Key Milestone |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Foundations** | Aug 2026 – Feb 2027 | MSRA Prep | MIT 18.06 (Linear Algebra) + DataCamp Python | Math & Code Bedrock |
+| **2. Golden Window** | Mar 2027 – Aug 2027 | Locum Shifts | Calculus Refresh + **MITx 6.431x (Probability)** | MicroMasters Course 1 |
+| **3. Integration** | Aug 2027 – Aug 2029 | CAP Training (CT1/ST2) | MRCPsych Papers A/B + **MicroMasters: ML & Data Analysis** | MicroMasters Complete |
+| **4. Application** | Aug 2029 – Aug 2030 | CAP Training (CT3) | MRCPsych CASC + PhD Applications | **PhD Submission** |
 
 ---
 
-**phase 3 target**: 🟢 complete by Aug 31, 2026 (all courses + 4 projects)
-**purpose**: In-depth learning to position myself at an optimal pre-PhD level.
+## ✅ Completed Foundations (Pre-Aug 2026)
+*These achievements established my clinical credibility and initial technical literacy.*
+
+### Clinical & Research Experience
+- **NHS Scotland:** 2+ years in Neurosurgery, Plastic Surgery, Critical Care.
+- **ICRC:** 2 years in Humanitarian Sector (Change Manager for Digital Health, Surgical Learning Hub).
+- **Research:** 
+  - Leading "IMGs' Mental Well-being" Scoping Review (Supervised by Prof. Mo Al-Haddad, U Glasgow).
+  - Scottish Improvement Foundation Skills (SIFS) Programme.
+  - Multiple audits and QI projects (see [Research & QI Portfolio](https://github.com/melaniagr/research-and-QI-portfolio)).
+
+### Initial Technical Exposure
+- **Courses:** Stanford ML for Healthcare, Digital Health Specialization (Imperial), Data Ethics (Edinburgh).
+- **Skills:** Basic Python, Healthcare AI evaluation, Systems Thinking.
+- **Status:** ✅ **Complete.** (These provided the "why" and "context"; now I am building the "how" and "rigor".)
 
 ---
 
-# phase 2: foundational (May 2025-Feb/ early March 2026)
+## 🚀 Current Focus: Phase 1 (Aug 2026 – Feb 2027)
+*Goal: Build the mathematical and coding bedrock before MSRA intensity peaks.*
 
-## innovation / programming / AI stream 🟢 Complete
-
-| course | status | timeline | notes |
-|--------|--------|----------|-------|
-| Fundamentals of Machine Learning in Healthcare (Stanford) | 🟢  | May 2025 | Coursera |
-| Evaluations of AI Applications in Healthcare (Stanford) | 🟢  | June 2025 | Coursera |
-| Python: Introductory Course (U Michigan) | 🟢  | Dec 2025 | Foundational programming |
-
-## maths stream 🟠 
-| course | status | timeline | notes |
-|--------|--------|----------|-------|
-| Pre-University Calculus (DelftX) | 🟠  | Dec 2025-Jan 2026 | Exam pending Jan 22 |
-
-## neuroscience stream 🟠 
-
-| course | status | timeline | notes |
-|--------|--------|----------|-------|
-| Philosophy of Cognitive Sciences (U Edinburgh) | 🟢 | Jan 2026 | Introduction course |
-| Essentials of Child and Adolescent Psychiatry (Paris-Saclay) | 🟢  | May 2025 | Clinical psychiatry foundation |
-| Neuropsychology of Decision-Making (Cambridge) | 🟢 | Dec 2025-Jan 2026 | Introduction course |
-
-🟠 as finetuning notes for uploading
-
-## research + QI stream 🟢
-
-| course | status | timeline | notes |
-|---------|--------|----------|-------|
-| [Scottish improvement foundation skills (SIFS)](https://github.com/melaniagr/research-and-QI-portfolio/tree/main/4-Scottish-improvement-foundation-skills-programme) | 🟢 | April-July 2025 | Improvement, measuring, reporting |
-| Aerogen Trial Delegation Log | 🟢 | 2025 | Shadowed patient recruitment, QEUH |
-
-
-## hands-on projects stream 🟢 
-
-| course | status | timeline | notes |
-|----------|--------|----------|-------|
-| Materials gathering + introductory reads | 🟢  | Dec 2025 | Phase 3 prep groundwork |
-
----
-
-**Phase 2 Target**: 🟢 Complete by Jan 30, 2026
-**purpose**: Establish foundational base for PhD. For example in math -precalculus, neuroscience -neuropsychology of decision-making, introduction to cognitive sciences, psychiatry essentials-, AI -fundamentals of ML for healthcare- and programming -intro to python-. 
-
----
-
-# Phase 1: Introductory (-July 2025) ✅ 
-
-🟠 finetuning notes for uploading
-
-this phase is complete, the date when it ended is estimated. here I leave an overview. 
-
-## Innovation / Programming / AI Stream 🟢 Complete
-
+### 📐 Mathematics Stream (Priority)
 | Course | Status | Timeline | Notes |
-|--------|--------|----------|-------|
-| Using HTA in Support of Universal Health Coverage (University of Glasgow, FutureLearn) | 🟢 | 2025 | HTA fundamentals, scarcity, practice |
-| Digital Health Specialization (Imperial College London, Coursera) | 🟢  | 2025 | Design, implementation, evaluation |
-| Data Ethics, AI and Responsible Innovation (University of Edinburgh, edX) | 🟢  | 2025 | AI governance, ethical deployment |
-| Frugal Innovation Skills Course (GASOC) | 🟢  | 2025 | Healthcare systems innovation |
-| Global Health Innovation Specialization (Imperial College London, Coursera) | 🟢  | 2023 | Principles, entrepreneurship, success metrics |
-| Innovation in Healthcare (University of Bath, FutureLearn) | 🟢 | 2023 | Systems thinking, healthcare improvement |
-| Change Management (PROSCI Certification) | 🟢  | April 2022 | Organizational change, adoption |
+| :--- | :--- | :--- | :--- |
+| **MIT OCW 18.06: Linear Algebra** (Strang) | 🟠 In Progress | Sep – Nov 2026 | Lectures 1–20 (Matrix ops, Eigenvalues, SVD) |
+| **3Blue1Brown: Essence of Linear Algebra** | 🟠 In Progress | Parallel | Geometric intuition |
+| **MIT 18.01: Single-Variable Calculus** | 🟡 Planned | Dec 2026 – Feb 2027 | Derivatives, Integrals (Prep for Probability) |
 
-## neuroscience stream (Beyond Clinical Work) 🟢
-| Course | Institution | Year | Focus |
-|--------|-------------|------|-------|
-| Mindfulness Fundamentals and Therapeutic Applications | Universidad Favaloro | 2024 | Neuroscience, mental health, therapeutic integration |
+### 💻 Programming Stream
+| Course | Status | Timeline | Notes |
+| :--- | :--- | :--- | :--- |
+| **DataCamp: Data Scientist with Python** | 🟠 In Progress | Sep – Nov 2026 | Courses 1–4 (Python, pandas, Supervised Learning) |
+| **GitHub Projects** | 🟡 Planned | Ongoing | 1–2 notebooks (SVD, ML classification) |
 
-
-## research + QI stream 🟢
-
-| course | status | timeline | notes |
-|------------------|--------|----------|-------|
-| Public Involvement in Research (Imperial College London, Coursera) | 🟢  | 2025 | Patient engagement in research |
-| Good Clinical Practice (NIHR) | 🟢  | 2025 | Research ethics, GCP standards |
-| Research and Audit (NHS HEE, eIntegrity) | 🟢 | 2024 | Research methodology, audit principles |
-| Quality Improvement Courses (BMJ Learning) | 🟢  | 2022 | QI frameworks, measurement |
-| Implementation and Improvement Science Course (Interburns) | 🟢  | 2021 | Implementation science fundamentals |
-| Project Management Foundations | Google | 2025 | Systems delivery |
-
+### 🏥 Clinical Priority
+| Activity | Status | Timeline | Notes |
+| :--- | :--- | :--- | :--- |
+| **MSRA Preparation** | 🔴 **High Priority** | Dec 2026 – Feb 2027 | **Primary Focus.** Math/Coding reduced to maintenance (1hr/wk) during this period. |
 
 ---
 
-**phase 1 Target**: 🟢 
-**Timeline:** up to July 2025
-**purpose**: Establish clinical research foundation + healthcare innovation + systems thinking  
+## 📅 Weekly Progress Log
+*Updates recorded here to track consistency and adjust pacing.*
+
+| Week | Dates | Math Progress | Code Progress | Clinical/Other | Reflection |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **W1** | Aug 26 – Sep 1 | MIT 18.06 Lec 1–3 | DataCamp Course 1 Ch 1–3 | MSRA prep start | Started strong. Need to protect time for math. |
+| **W2** | Sep 2 – Sep 8 | MIT 18.06 Lec 4–6 | DataCamp Course 1 Ch 4–End | Locum shifts | Good momentum. |
+| ... | ... | ... | ... | ... | ... |
+
+*(See [Weekly Reflections](https://github.com/melaniagr/phd-prep/tree/main/weekly-reflections) for detailed logs)*
 
 ---
+
+## 🧭 Strategic Notes
+
+### Why This Order?
+My previous attempts involved parallel streams (RL, DSP, Stats) without a hierarchy. This led to fragmentation.
+- **New Rule:** No Machine Learning until Linear Algebra is mastered.
+- **New Rule:** No Probability until Calculus is refreshed.
+- **Reason:** These are prerequisites for the **MIT MicroMasters**, which requires rigorous mathematical fluency.
+
+### Managing ADHD & Consistency
+- **Structure:** I use rigid short-term plans (weekly tables) to maintain consistency.
+- **Hyperfocus:** Leveraged for deep dives into intrinsically motivating topics (e.g., Neural Dynamics).
+- **Flexibility:** The roadmap allows for "detours" (e.g., reading papers) but only after core milestones are met.
+
+---
+
+## 📂 Supporting Repositories
+- **[Certificates](https://github.com/melaniagr/certificates):** Inventory of completed credentials.
+- **[Research & QI](https://github.com/melaniagr/research-and-QI-portfolio):** Applied clinical work.
+- **[Neurocomputing Portfolio](https://github.com/melaniagr/neurocomputing-portfolio):** (Coming Soon) Code projects.
+
+---
+
+*Last Updated: August 2026*
