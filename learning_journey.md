@@ -1,123 +1,72 @@
-# Learning Journey: Clinical Neuroscience → Computational Cognitive Science
+# Learning Journey: From Clinical Practice to Computational Neuroscience
 
-## Background
+## Background & Foundation
 
-I hold an MD from Universidad de la República, Uruguay, where biostatistics formed part of our curriculum. Prior to medicine, I completed Year 1 of Engineering (~690 hours, or 165 UK credits of mathematics, programming, and physics)—a foundation that shaped my current mathematical intuition and continues to inform how I approach problem-solving.
+I am a physician with a unique dual foundation: an **MD from Universidad de la República (Uruguay)** and **Year 1 of Engineering** (~690 hours of mathematics, programming, and physics). This engineering background shaped my mathematical intuition early on, while my medical training provided deep domain expertise in neurocognitive mechanisms.
 
-## Experience: Implementation Science & Domain Expertise
+Before returning to clinical medicine, I spent two years with the **ICRC** in humanitarian settings, leading change management for digital health projects and designing behavioral evaluation frameworks. This experience taught me a critical lesson: **healthcare innovation fails when it ignores the human systems it serves.**
 
-### Humanitarian Sector (ICRC)
+Following this, I navigated UK medical licensing (PLAB) and completed over two years of clinical practice in the **NHS Scotland** (Neurosurgery, Plastic Surgery, Critical Care). These roles reinforced my conviction that the gap between *knowing* about the brain and *treating* patients requires a bridge: **computational modelling.**
 
-Two years in the humanitarian sector with the ICRC directly applied implementation science: supporting hospital operations, designing behavioral-level training evaluation, and contributing to the Surgical Learning Hub. The second year focused on change management for digital health projects—particularly the DCMS—which provided crucial insight into real-world constraints for intervention design in underserved contexts.
+---
 
-### Clinical Practice (NHS)
+## The Strategic Pivot
 
-I spent nearly 20 months navigating UK medical licensing (PLAB examinations and credentialing), followed by more than two years in the NHS across neurosurgery, plastic surgery, and critical care. These clinical roles deepened my domain knowledge of neurocognitive mechanisms and the real-world complexities of clinical decision-making under uncertainty.
+In 2024, I identified the **AI4Biomed** CDT at the University of Edinburgh as my target. Realizing my quantitative skills needed strengthening for a PhD in neuroengineering, I made a strategic decision to transition from full-time clinical contracts to **locum shifts**.
 
-### Values & Social Impact
+This move was not a retreat, but a **recalibration**. It freed the cognitive capacity required for the deep, sustained study necessary for PhD-level work. My initial attempts to self-study were scattered—jumping between calculus, Python, and ML without sequence. I learned a vital lesson: **structure enables materialization.** Without a sequenced plan, effort disperses; with it, momentum builds.
 
-Throughout these years, I have pursued personal projects grounded in social justice—founding the NGO SOFAI and co-authoring a documentary on intersectional struggles. These reflect my commitment to translating lived experience into meaningful action.
+### Current Strategy: The 4-Year Roadmap (2026–2030)
 
-## Learning Goal
+I am now executing a disciplined, linear path designed to bridge clinical expertise with graduate-level quantitative rigor.
 
-My learning goal is to transition from clinical neuroscience to computational cognitive science—bridging mechanistic understanding with real-world application.
+| Phase | Timeline | Clinical Focus | Quantitative Focus | Key Milestone |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Foundations** | Aug 2026 – Feb 2027 | MSRA Prep | MIT 18.06 (Linear Algebra) + DataCamp Python | Math & Code Bedrock |
+| **2. Golden Window** | Mar 2027 – Aug 2027 | Locum Shifts | Calculus Refresh + **MIT MicroMasters: Probability** | MicroMasters Course 1 |
+| **3. Integration** | Aug 2027 – Aug 2029 | CAP Training (CT1/ST2) | MRCPsych Papers A/B + **MicroMasters: ML & Data Analysis** | MicroMasters Complete |
+| **4. Application** | Aug 2029 – Aug 2030 | CAP Training (CT3) | MRCPsych CASC + PhD Applications | **PhD Submission** |
 
-## Five Interconnected Workstreams -
+---
 
-I have structured my learning across five interconnected workstreams:
+## Workstreams & Execution
 
-1. **Innovation & Programming** – From digital health fundamentals to Machine Learning for Healthcare, Python, and reinforcement learning
+Rather than parallel "streams," I now focus on **sequential mastery** to ensure depth:
 
-2. **Mathematics** – Foundations for ML: calculus, linear algebra, optimization
+### 1. Mathematical Rigor (The Bedrock)
+*   **Focus:** Linear Algebra (Eigenvalues, SVD, Least Squares) → Calculus → Probability.
+*   **Resources:** MIT OCW 18.06 (Gilbert Strang), MIT 18.01/18.02, MITx 6.431x.
+*   **Goal:** To derive models, not just run them.
 
-3. **Neuroscience** – Building from cellular mechanisms to systems and cognition (refreshing medical school knowledge with computational perspective)
+### 2. Computational Fluency
+*   **Focus:** Python for Data Science (pandas, NumPy, scikit-learn) → Machine Learning.
+*   **Resources:** DataCamp "Data Scientist with Python" Track, MITx 6.86x.
+*   **Goal:** To implement simulations and analyze real-world clinical data.
 
-4. **Research & QI** – Meaningful research design, implementation science, applied statistics, with grounding in NHS innovation pathways
+### 3. Clinical & Research Integration
+*   **Focus:** Child & Adolescent Psychiatry Training (NHS Scotland) + Research Projects.
+*   **Activities:** Leading the "IMGs' Mental Well-being" scoping review; designing hands-on projects (e.g., EMG bioamplifier).
+*   **Goal:** To ground computational models in clinical reality and ethical constraints.
 
-5. **Hands-on Projects** – EMG bioamplifier, signal processing, RL models—developing concept ownership through building
+---
 
+## Why This Approach?
 
-## - in 3 progressive phases 
-```
-Phase 1: Introductory Evidence
-↓
-Research initiation + Clinical credibility + QI mindset
-↓
-Phase 2: Foundations
-↓
-Technical literacy (AI/ML) + Neuroscience foundations + Improvement methodology
-↓
-Phase 3: In-Depth Learning
-↓
-Mathematical rigor + Systems neuroscience + Computational skills + Real research
-↓
-PhD-Ready: Computational Cognitive Science Researcher
-```
+My previous attempts involved "doing everything at once"—taking multiple courses simultaneously without a clear hierarchy. This resulted in fragmented knowledge.
 
+The new approach prioritizes **depth over breadth**:
+1.  **Sequential Learning:** I will not touch Machine Learning until Linear Algebra is mastered.
+2.  **Contextual Application:** Every math concept is immediately linked to a potential clinical application (e.g., SVD for dimensionality reduction in fMRI).
+3.  **Sustainable Pace:** I work with my neurotype (ADHD), leveraging hyperfocus for deep dives while using rigid short-term structures to maintain consistency.
 
+---
 
-## Why This Order Matters
+## Portfolio & Certificates
 
-The order has been deliberate — e.g. Reinforcement Learning might seem interesting and appealing, but without proper math foundations will be harder to grasp.
+*   **[Certificates Repository](https://github.com/melaniagr/certificates):** A complete inventory of completed courses and credentials.
+*   **[Research & QI Portfolio](https://github.com/melaniagr/research-and-QI-portfolio):** Applied clinical audits, quality improvement projects, and research outputs.
+*   **[Neurocomputing Portfolio](https://github.com/melaniagr/neurocomputing-portfolio):** (Under Construction) Code projects, notebooks, and computational models.
 
-## Current Phase
+---
 
-Currently, I am about to dedicate myself plainly to phase 3. I still need to work on my math refreshers in depth, as well as understanding python language and machine learning, but I can also, spontaneously, read papers or watch lectures, and build with my own hands devices or codes that feel naturally embedded  in a path that slowly starts to converge.
-
-certificate inventory in [certificates repo](https://github.com/melaniagr/certificates)
-
-### Phase 1 – Introductory evidence (✅ complete, to July 2025)
-
-**Purpose:** establish clinical research foundations, healthcare innovation literacy, and systems thinking.
-
-**Focus streams:**
-- **Innovation & Programming:** digital health, global health innovation, data ethics, HTA, project management.
-- **Research & QI:** public involvement, GCP, research vs audit, BMJ QI foundations/leadership/model for improvement.
-- **Neuroscience:** mindfulness & therapeutic applications as a bridge back into brain/mental health.
-
-**What this phase achieved:**
-- Clinical systems foundation: how innovation, HTA and QI frameworks actually translate into everyday healthcare.
-- QI mindset: seeing change as iterative, measured and team‑based.
-- Bridge to computational cognitive science: grounding later RL/ML work in real clinical outcome metrics and implementation barriers.
-
-**Skills gained:**
-- Innovation: digital health design, systems thinking, HTA, ethical AI.
-- Research & QI: ethics, audit vs research, QI frameworks, measurement, clinical leadership.
-- Neuroscience: mental‑health neurobiology and mindfulness applications.
-- Cross‑cutting: patient‑centred, ethically aware systems thinking.
-
-### Phase 2 – Foundations (2025–early 2026)
-
-**Purpose:** build technical literacy in AI/ML, deepen neuroscience, and step up QI practice.
-
-**Main strands:**
-- **Innovation & Programming:** ML for healthcare, healthcare AI evaluation, Python fundamentals.
-- **Neuroscience:** cognitive science, neuropsychology of decision-making, essentials of child & adolescent psychiatry.
-- **Research & QI:** Scottish Improvement Foundation Skills (SIFS) as a first full improvement‑science programme.
-
-**Highlights:**
-- Ran AI/ML courses specifically designed for healthcare, focusing on metrics, evaluation, and pitfalls.
-- Built decision‑making and child psychiatry knowledge to complement adult clinical experience.
-- Applied improvement science in a real departmental initiative via SIFS, including intervention design, testing and communication of findings.
-
-**Skills gained:**
-- AI & Programming: ML fundamentals, Python basics, critical evaluation of healthcare AI.
-- Neuroscience: cognitive science concepts, decision‑making neurobiology, child psychiatry.
-- Research & QI: improvement science methodology, intervention design, measurement and real‑world application.
-
-### Phase 3 – In-depth (current)
-
-**Purpose:** move beyond foundations towards PhD‑ready mastery.
-
-**Approach:**
-- **Mathematics & Computation:** consolidate basics (e.g. Math for ML, Delft calculus), then deepen via MIT OCW/MITx, edX, Coursera. MIT’s “Computational Thinking with Python” forms the computational backbone; David Silver’s RL course builds advanced modelling intuition.
-- **Neuroscience:** HarvardX MicroBachelors in Fundamentals of Neuroscience and further courses in computational/cognitive neuroscience, from systems to quantitative models.
-- **Research & Practice:** lead the scoping review “IMGs’ Mental Well‑being” under supervision, and design hands‑on projects (e.g. EMG bioamplifier) to connect data, hardware and analysis.
-- **Integration:** systematically cross‑link maths, algorithms, neurobiology and empirical research—using each course/project to support the others.
-
-**Current aims:**
-- Gain the mathematical tools to model neural circuits and analyse brain/neuroimaging/biosignal data.
-- Understand algorithms and optimisation for processing these signals.
-- Implement computational models of decision-making and apply them to real data.
-- Design experiments, collect/clean data, and interpret findings in clinically meaningful ways.
-
+*Last Updated: August 2026*
