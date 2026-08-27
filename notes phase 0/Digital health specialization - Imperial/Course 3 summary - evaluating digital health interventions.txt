@@ -1,0 +1,37 @@
+# Digital Health (Imperial, Course 3) – Evaluating Digital Health Interventions
+
+## Week 1 – Data for digital health
+
+- Data is the **currency** of digital health: tools collect, curate and analyse data, so gaps directly affect equity and impact.
+- Current problems: lack of primary data, poor coordination between systems, delays in availability, data that doesn’t match end‑user needs.
+- Good data should be timely, policy‑relevant, reliable, privacy‑preserving and securely stored; actions include gap assessments, standardisation and better coordination.
+
+### Statistical basics for reading studies
+
+- Check whether groups are comparable at baseline (age, sex, key clinical variables).
+- Understand parametric vs non‑parametric tests; choose tests appropriate to data type and distribution.
+- Ensure correct use of paired tests, two‑tailed tests where harms are possible, and thoughtful handling of outliers.
+- Data management: validation (internal/external), cleaning, descriptive statistics, then appropriate models (linear, logistic, Poisson).
+
+## Week 4 – Frameworks and models for evaluation
+
+- Use **complex intervention frameworks** (e.g. MRC): development → evaluation → implementation.
+- Key evaluation functions: assess effectiveness, understand mechanisms of change, and assess cost‑effectiveness.
+- Robust trials (e.g. TASMINH4) require pre‑specified analysis, adequate sample size, clear inclusion criteria, documented withdrawals and appropriate sensitivity analyses.
+
+### Persuasive system design & logic models
+
+- Persuasive system design (Oinas‑Kukkonen): 3 phases – understand key issues & postulates, analyse persuasion context (intent, event, strategy), translate insights into design features.
+  - Design support categories: primary task support, dialogue support (feedback), credibility, social support.
+- Logic models: map structure → processes → outcomes; specify context, resources, activities, short‑ and long‑term outcomes, and indicators.
+  - Include **dark logic models** to think about unintended consequences.
+
+### Statistical analysis plans (SAPs)
+
+- SAP = detailed technical plan of analyses before data are seen; should be finalised and ideally published before unblinding.
+- Benefits: guides analysis/reporting, aligns with protocol, reduces bias, improves transparency, supports reproducibility.
+- Key elements: objectives & hypotheses, study design, primary/secondary outcomes, sample size, analysis methods.
+
+## My key takeaway
+
+Rigorous evaluation of digital health needs three things together: **good data**, theory‑driven design (logic models, PSD) and pre‑specified, transparent analysis plans—not just impressive apps.
