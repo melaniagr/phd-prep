@@ -1,34 +1,32 @@
-In this repo I have uploaded relevant documents for Computational Cognitive Science PhD Preparation. 
+# PhD Preparation: Computational Neuroscience & Neuroengineering
 
-After dozens of iterations, I settled on a study plan: 5 workstreams (Innovation/AI, Math, Neuroscience, Research+QI, Hands-on Projects) organized into 3 phases by depth: Introductory → Foundational → In Depth. My background and rationale for my learning journey sits at ([learning journey](https://github.com/melaniagr/phd-prep/blob/main/learning_journey.md)).
+**Medical Doctor | CAP Trainee (Edinburgh) | Aspiring Neuroengineering PhD Candidate**
 
-There are plenty of documents, a quick way to navigate them:
-
-**my vision**   
-→ [Why computational cognitive science?](https://github.com/melaniagr/phd-prep/blob/main/research-statement-why-computational-cognitive-science.md) is a research statement explaining the journey that has taken me here.
-
-**professional track record**   
-→ *Companion Portfolio:* [Research & Quality Improvement Portfolio](https://github.com/melaniagr/research-and-qi-portfolio) showcases applied research and clinical leadership outcomes. Notably, the [DCMS case study](https://github.com/melaniagr/research-and-QI-portfolio/blob/main/3-international-health-systems/dcms-implementation-case-study.md) demonstrates how understanding human behaviour in complex systems directly informs my computational cognitive science research.
-
-**PhD prep structure**   
-→ [phase 1](https://github.com/melaniagr/phd-prep/tree/main/phase-1-introductory): most of the content of this phase has been diverted to the Research and QI Portfolio and the Certificates repo - still has minimal content regarding this phase. 
-
-→ [phase 2](https://github.com/melaniagr/phd-prep/tree/main/phase-2-foundations): documentation for foundational courses in ML for healthcare, python, pre-calculus, QI-in-depth programme and introductory neuroscience courses.
-
-→ [phase 3](https://github.com/melaniagr/phd-prep/tree/main/phase-3-in-depth): this is the in-depth phase, in which I dive mainly in mathematical, computational, neuroscientific and hands-on-research projects in order to be at PhD level. 
-
-→ [certificates](https://github.com/melaniagr/certificates): I've created a different repo for the certificates.
-
-→ [weekly reflections](https://github.com/melaniagr/phd-prep/tree/main/weekly-reflections) I started this to organise my mind and my learning whilst managing so many workstreams.
-
-→ [supplementary reading](https://github.com/melaniagr/phd-prep/tree/main/supplementary-reading) will contain ad-hoc materials that I find useful.
-
-→ [progress-tracker](https://github.com/melaniagr/phd-prep/blob/main/progress-tracker.md) this file is meant to give clarity on where I stand.
+This repository tracks my structured transition from clinical medicine to computational neuroscience. It contains my strategic roadmap, research statement, learning journey, progress tracker, and supplementary materials.
 
 ---
 
-Each folder has a in-depth readme file with structure.
+## 📂 Navigate This Repo
 
-I intend to continue editing the content as time passes by and will include reflections where I find they are needed.
+| Document | Purpose |
+| :--- | :--- |
+| **[Roadmap](./roadmap.md)** | The full 4-year plan (2026–2030) with weekly breakdowns |
+| **[Research Statement](./research-statement-why-computational-neuroscience.md)** | Why computational neuroscience? The narrative behind the pivot |
+| **[Learning Journey](./learning_journey.md)** | Background, strategy, and workstream structure |
+| **[Progress Tracker](./progress-tracker.md)** | Live weekly log of what I'm studying |
+| **[Weekly Reflections](./weekly-reflections/)** | Ad-hoc notes on insights and challenges |
+| **[Supplementary Reading](./supplementary-reading/)** | Papers, lectures, and tangential materials |
 
-Gracias!
+---
+
+## 🔗 Companion Repositories
+
+| Repo | Contents |
+| :--- | :--- |
+| **[Research & QI Portfolio](https://github.com/melaniagr/research-and-QI-portfolio)** | Published research, national presentations, QI leadership, ICRC case study |
+| **[Certificates](https://github.com/melaniagr/certificates)** | Categorized inventory of completed credentials |
+| **[Neurocomputing Portfolio](https://github.com/melaniagr/neurocomputing-portfolio)** | *(Coming Soon)* Code projects, ML models, and computational notebooks |
+
+---
+
+*Last Updated: August 2026*
