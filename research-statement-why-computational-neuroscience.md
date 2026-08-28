@@ -1,30 +1,15 @@
-# Why Computational Neuroscience?
+### Why Computational Cognitive Science?
 
-**From Clinical Observation to Mathematical Modelling**
+Since auditing *Synapses, Neurons, and Brains* during the pandemic, I have wanted to pursue computational neuroscience—but I faced real uncertainty about where to start, how to fund it, whether I was equipped, and how it aligned with my commitments in the humanitarian sector and personal projects (launching an NGO, co-authoring a documentary).   
 
-My journey into computational neuroscience began during the pandemic while auditing Idan Segev’s *Synapses, Neurons and Brains*. For the first time, I saw the mind described not just biologically, but mathematically. That moment shifted my perspective: if we can model the neuron, can we model the decision-making processes underlying psychiatric disorders?
+I am a physician who trained originally in engineering alongside theatre. After medical training, I took time to work across Europe and contribute to Medland Project—a photojournalism project documenting people living alternative ways in the Mediterranean. There, I began questioning how information shapes us. It prompted a deeper question: how much does information quality shape human behaviour and decision-making? As the project's creator noted, we add constantly to an already over-informed world. This became central to my thinking: not just *what* information exists, but *how* humans process it—and what I, personally, would responsibly add to an already over-informed world.   
 
-I am a physician with an engineering background who has spent the last decade navigating the intersection of clinical care, humanitarian work, and innovation. Originally trained in Uruguay, I worked across Europe on the *Medland Project* (a photojournalism initiative exploring alternative lifestyles) and later with the ICRC as a Change Manager for digital health implementations. These experiences crystallized a central question: **Healthcare innovation fails not because of poor technology, but because it misunderstands the human systems it serves.**
+This trajectory led me into the humanitarian sector, where I worked in varied roles for the ICRC—including as change manager for a digital health implementation project. In parallel, I worked on launching a nonprofit and co-authoring a documentary. Once these projects were on their way, I pursued the PLAB route—completing it in an accelerated timeframe while studying independently from Switzerland—before spending two years in NHS clinical specialties. Each role reinforced the same conviction: healthcare innovation is needed to improve care for millions of people, yet fails in translation when it doesn't truly understand the people it is intended for. I became particularly interested in the neurocognitive processes underlying decision-making—but within the broader landscape of computational cognitive science, where human behaviour emerges from systems, constraints, and context.   
 
-Whether managing digital health rollouts or working in NHS Scotland, I observed that the gap between *what we know* about the brain and *how we treat* patients remains vast. I became particularly fascinated by the neurocognitive processes driving decision-making in vulnerable populations—children, refugees, and those with complex mental health needs. But to truly bridge this gap, I realized I needed more than clinical insight; I needed the quantitative tools to model these systems.
+In 2024, I discovered AI4Biomed—it aligned with my interests and helped me recognise what a well-designed PhD programme could look like. This opened my eyes to other programmes matching that vision. Unable to pursue immediately, I made a critical decision: to step back from clinical contracts and transition to locum shifts. This freed space for serious study and protected the sleep and cognitive capacity I'd been sacrificing.
 
-### The Pivot: From Generalist to Specialist
+In September, I drafted a learning plan for January applications, but I misjudged the scope. I began multiple courses simultaneously—MITx single and multivariable calculus, differential equations, Python—without clear sequencing. I wanted credentials to prove competence, but I was actually dispersing my energy. By trying to do everything at once, I lost focus and efficiency.   
 
-In 2024, discovering the **AI4Biomed** programme at the University of Edinburgh clarified my path. It showed me what a rigorous, integrated PhD could look like. However, realizing I lacked the necessary quantitative depth, I made a strategic decision to step back from full-time clinical contracts and transition to locum shifts. This move was not a retreat, but a recalibration: it protected my cognitive capacity and created the space for the deep, sustained study required for PhD-level work.
+This taught me something fundamental: an organised learning journey matters more than credentials. Structure enables materialisation—you see progress, build momentum, and sustain motivation. After personal circumstances and a brief demotivation phase, I restarted in January with a refined plan. I realised that a coherent path, even without certificates, would serve my actual goal: deep understanding and genuine preparation for PhD-level work.   
 
-My initial attempts to self-study were scattered—simultaneously tackling calculus, differential equations, and Python without a clear sequence. I learned a hard but vital lesson: **credentials are secondary to coherence.** Structure enables materialization. Without a sequenced plan, effort disperses; with it, momentum builds.
-
-### Current Trajectory & Methodology
-
-I am now executing a disciplined, four-year roadmap designed to bridge my clinical expertise with advanced computational skills:
-- **Foundations (2026–2027):** Mastering Linear Algebra (MIT 18.06) and Python (DataCamp) to build the mathematical bedrock.
-- **Graduate-Level Rigor (2027–2029):** Completing the **MIT MicroMasters in Statistics and Data Science** while advancing through Child & Adolescent Psychiatry training.
-- **Research Integration (2029–2030):** Applying these skills to clinical problems, culminating in a PhD application focused on **computational psychiatry and neuroengineering**.
-
-### Working with My Neurotype
-
-I approach this journey with full awareness of my neurodivergence. I leverage my **ADHD-driven hyperfocus** to dive deep into intrinsically motivating topics (like neural dynamics), while using structured frameworks and AI-assisted planning to maintain consistency on the "boring" but essential foundations. This balance—between deep, exploratory dives and rigid, short-term execution—is not just a coping mechanism; it mirrors the iterative nature of research itself.
-
-### The Goal
-
-I do not seek to leave medicine behind, but to deepen it. My goal is to train as a researcher who can translate clinical observations into testable computational models—specifically in child and adolescent psychiatry. Whether it is modeling developmental trajectories in autism or optimizing treatment response prediction in depression, I want to build tools that are not just technically sound, but clinically meaningful.
+I'm building routines that work *with* my ADHD rather than against it. Hyperfocus on intrinsically motivating topics is a genuine asset—it allows me to move through difficult material quickly. But I've also learned to protect time for unexpected detours: random lectures, tangential reading, serendipitous discoveries. This balance between structured depth and explorative breadth, feels essential to doing research well, especially in computational cognition.   
