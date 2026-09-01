@@ -25,6 +25,14 @@
 | Topic | Status | Notes |
 | :--- | :--- | :--- |
 | **Linear Algebra** (MIT 18.06) | 🟠 In Progress | Lectures 1–20 (Matrix ops, Eigenvalues, SVD) |
+| Topic | Status | Evidence |
+|---|---|---|
+| Linear systems and elimination | In progress | Notebook 01 |
+| Vector spaces, rank, and null space | In progress | Notebook 01 |
+| Least squares and projections | Not started | Notebook 02 |
+| Eigenvalues and eigenvectors | Not started | Notebook 02 |
+| SVD and PCA | Not started | Notebook 03 |
+| Timed assessment | Not started | assessment.md |
 | **Geometric Intuition** (3Blue1Brown) | 🟠 In Progress | Parallel viewing |
 | **Calculus** (MIT 18.01) | 🟡 Planned | Starting Dec 2026 |
 
